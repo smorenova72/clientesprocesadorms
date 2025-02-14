@@ -1,4 +1,4 @@
-Iganacio Patiño
-Juan Jose Arenas
-Andres Cardona
-Sebastián Moreno
+# Iganacio Patiño
+# Juan Jose Arenas
+# Andres Cardona
+# Sebastián Moreno
